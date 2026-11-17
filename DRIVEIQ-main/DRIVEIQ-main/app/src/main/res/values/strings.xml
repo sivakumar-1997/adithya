@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DriveIQ</string>
+    <string name="nav_cockpit">Cockpit</string>
+    <string name="nav_intelligence">Intelligence</string>
+    <string name="nav_history">History &amp; AI</string>
+    <string name="nav_bridge">CARLA &amp; Web</string>
+    <string name="engine_start">START ENGINE</string>
+    <string name="engine_stop">STOP ENGINE</string>
+    <string name="disclaimer_vehicle">Simulated stress &amp; spare-part wear estimates only — not actual vehicle mechanical diagnostics.</string>
+    <string name="disclaimer_human">Simulated behavioral telemetry — does not diagnose medical conditions or driver fatigue.</string>
+    <string name="audio_cue_label">Real-Time Engine &amp; Alert Audio</string>
+    <string name="ai_coach_title">Gemini AI Driving Coach</string>
+    <string name="ai_analyze_live">Analyze Live Session with AI</string>
+    <string name="ai_analyze_session">Generate AI Session Debrief</string>
+</resources>

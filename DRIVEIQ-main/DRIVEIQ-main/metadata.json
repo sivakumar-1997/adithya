@@ -1,0 +1,6 @@
+{
+  "name": "DriveIQ",
+  "description": "AI-powered intelligent driving simulation and predictive telemetry analytics dashboard with real-time cockpit controls, event detection, and local Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
